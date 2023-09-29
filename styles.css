@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+ul{
+	display:flex;
+	justify-content:end;
+}
+ul > li 
+{
+	padding-right:30px;
+	list-style-type:none;
+	margin-inline: 10px;
+	font-size:20px;
+}
+a{
+	text-decoration:none;
+	color:black;
+}
+video
+{
+	width:200px;
+}
